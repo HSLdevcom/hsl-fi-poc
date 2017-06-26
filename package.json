@@ -4,7 +4,8 @@
   "private": true,
   "dependencies": {
     "react": "^15.6.1",
-    "react-dom": "^15.6.1"
+    "react-dom": "^15.6.1",
+    "sharedcomponents": "https://github.com/HSLdevcom/shared-components.git#5004a8a1425e8e00deb5dcbbd128502f5bcee03b"
   },
   "devDependencies": {
     "react-scripts": "1.0.7"
